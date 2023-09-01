@@ -1,0 +1,87 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+.half{
+    width: 35%;
+    float: left;
+    margin: 0% 6%;
+}
+#top{
+    margin-top: 10%;
+}
+.name{
+    color: #EC4C7A;
+}
+p{
+    text-align: justify;
+    margin-bottom: 5%;
+}
+
+.link{
+    text-decoration: none;
+    background-color: #EC4C9A;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 12px;
+}
+.half img{
+    width: 100%;
+}
+section{
+    height: 500px;
+}
+.header{
+    background-image: url(image/header-bg.png);
+}
+.biography{
+    background-image: url(image/biography-bg.png);
+}
+.work{
+    margin-top: 280px;
+    background-image: url(image/latest-work-bg.png);
+}
+.work h2{
+    text-align: center;
+}
+.work img{
+    width: 25%;
+    float: left;
+    margin: 3%;
+    margin-left: 5%;
+}
+.client{
+    text-align: center;
+    margin: 0px 300px;
+}
+.client h4{
+    margin-top: 40px;
+    margin-bottom: 3px;
+}
+.client h5{
+    margin-top: 0px;
+    opacity: 60%;
+}
+.client p{
+    text-align: center;
+}
+.box{
+    margin: auto;
+    width: 500px;
+    height: 200px;
+    align-items: center;
+    background-color: #EC4C7A;
+    color: white;
+    border-radius: 10px;
+}
+.box h5{
+    opacity: 100%;
+}
+footer{
+    opacity: 50%;
+    margin: 2%;
+}
+footer p{
+    text-align: center;
+}
